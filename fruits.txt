@@ -1,3 +1,7 @@
 apples
 berries
 cherries
+pineapples
+durians
+rambutans
+jackfruits
